@@ -1,4 +1,7 @@
 {
+    //https://my-json-server.typicode.com/tomber/wndy-stats/bookings
+    
+
     "subscriptions": {
         "item":[{
             "value":"38",
@@ -26,5 +29,16 @@
             "value":"14",
             "label":"Paid"
         }]
+    },
+    "accounts":{
+    "x_axis": {
+        "labels": ["jan 22", "feb 22", "mar 22", "apr 22"]
+    },
+    "series": [
+        {
+        "data": [45, 49, 251, 554]
+        }
+    ]
     }
+
 }
