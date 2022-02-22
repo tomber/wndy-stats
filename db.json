@@ -1,0 +1,12 @@
+{
+    "subscriptions": {
+        "total": 38,
+        "basic": 14,
+        "free": 24
+    },
+    "bookings": {
+        "total": 262,
+        "basic": 43,
+        "free": 219
+    }
+}
