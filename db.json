@@ -5,12 +5,12 @@
             "text":"Total"
         },
         {
-            "value":"14",
-            "text":"Basic"
-        },
-        {
             "value":"24",
             "text":"Free"
+        },
+        {
+            "value":"14",
+            "text":"Basic"
         }]
     },
     "bookings": {
@@ -19,12 +19,12 @@
             "text":"Total"
         },
         {
-            "value":"14",
-            "text":"Basic"
-        },
-        {
             "value":"24",
             "text":"Free"
+        },
+        {
+            "value":"14",
+            "text":"Basic"
         }]
     }
 }
