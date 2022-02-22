@@ -2,29 +2,29 @@
     "subscriptions": {
         "item":[{
             "value":"38",
-            "text":"Total"
+            "label":"Total"
         },
         {
             "value":"24",
-            "text":"Free"
+            "label":"Free"
         },
         {
             "value":"14",
-            "text":"Basic"
+            "label":"Paid"
         }]
     },
     "bookings": {
         "item":[{
             "value":"38",
-            "text":"Total"
+            "label":"Total"
         },
         {
             "value":"24",
-            "text":"Free"
+            "label":"Free"
         },
         {
             "value":"14",
-            "text":"Basic"
+            "label":"Paid"
         }]
     }
 }
