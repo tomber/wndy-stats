@@ -1,12 +1,29 @@
-{
+
     "subscriptions": {
-        "total": 38,
-        "basic": 14,
-        "free": 24
+        "item":[{
+            "value":"38",
+            "text":"Total"
+        },
+        {
+            "value":"14",
+            "text":"Basic"
+        },
+        {
+            "value":"24",
+            "text":"Free"
+        }]
     },
     "bookings": {
-        "total": 262,
-        "basic": 43,
-        "free": 219
+        "item":[{
+            "value":"38",
+            "text":"Total"
+        },
+        {
+            "value":"14",
+            "text":"Basic"
+        },
+        {
+            "value":"24",
+            "text":"Free"
+        }]
     }
-}
