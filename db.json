@@ -1,7 +1,4 @@
 {
-    //https://my-json-server.typicode.com/tomber/wndy-stats/bookings
-    
-
     "subscriptions": {
         "item":[{
             "value":"38",
