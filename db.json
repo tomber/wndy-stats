@@ -1,41 +1,14 @@
 {
+       "bookings": {
+        "total": 262,
+        "paid": 43,
+        "free": 219
+    },
     "subscriptions": {
-        "item":[{
-            "value":"38",
-            "label":"Total"
-        },
-        {
-            "value":"24",
-            "label":"Free"
-        },
-        {
-            "value":"14",
-            "label":"Paid"
-        }]
-    },
-    "bookings": {
-        "item":[{
-            "value":"38",
-            "label":"Total"
-        },
-        {
-            "value":"24",
-            "label":"Free"
-        },
-        {
-            "value":"14",
-            "label":"Paid"
-        }]
-    },
-    "accounts":{
-    "x_axis": {
-        "labels": ["jan 22", "feb 22", "mar 22", "apr 22"]
-    },
-    "series": [
-        {
-        "data": [45, 49, 251, 554]
-        }
-    ]
+        "total": 262,
+        "paid": 43,
+        "free": 219
     }
+
 
 }
