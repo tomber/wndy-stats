@@ -1,8 +1,13 @@
 {
        "bookings": {
         "total": 262,
-        "paid": 43,
-        "free": 219
+        "totalPaid": 43,
+        "totalFree": 219,
+        "passedFree": 219,
+        "passedPaid": 43,
+        "futureFree": 0,
+        "futurePaid": 0,
+        "date": "2022-02-25"
     },
     "subscriptions": {
         "total": 262,
